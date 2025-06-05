@@ -6,7 +6,7 @@
 [![Instagram Badge](https://img.shields.io/badge/maaaanavvv-%23E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/maaaanavvv/)](https://www.instagram.com/maaaanavvv/)
 
 ## Hi 👋, 
-I'm Manav Singh, I'm a student 👨‍💻 who is passionate about Web development and open source. I'm also a self proclaimed vidoe editor and internet surfer 
+I'm Manav Singh, I'm a graduate 👨‍💻 who is passionate about Web development and open source. I'm also a self proclaimed video editor and internet surfer 
 🏄‍♂️. 
 
 - 🔭 I’m currently working on Frontend Development
