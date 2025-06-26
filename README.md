@@ -5,7 +5,7 @@
 [![Spotify Badge](https://img.shields.io/badge/-ManavSingh-1ED760?style=flat-square&labelColor=1ED760&logo=spotify&logoColor=white)](https://open.spotify.com/user/ypbdo7bvkpl6lhnzbvvyc18io?si=eb361b2df7ea4559)
 [![Instagram Badge](https://img.shields.io/badge/maaaanavvv-%23E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/maaaanavvv/)](https://www.instagram.com/maaaanavvv/)
 
-## Hi 👋, 
+## Hi 👋
 I'm Manav Singh, I'm a graduate 👨‍💻 who is passionate about Web development and open source. I'm also a self proclaimed video editor and internet surfer 
 🏄‍♂️. 
 
