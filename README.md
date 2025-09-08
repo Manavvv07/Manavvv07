@@ -13,7 +13,7 @@ I'm Manav Singh, I'm a graduate 👨‍💻 who is passionate about Web developm
 - 🌱 I’m currently learning Fullstack Development
 - 💬 Ask me about: tech, memes, anime , sports
 - 😄 Pronouns: he/him
--  ⚡ Languages: JavaScript, C#, Python 
+-  ⚡ Languages: JavaScript, Java, Python 
 
 
 > Sic Parvis Magna
