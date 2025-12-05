@@ -6,14 +6,14 @@
 [![Instagram Badge](https://img.shields.io/badge/maaaanavvv-%23E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/maaaanavvv/)](https://www.instagram.com/maaaanavvv/)
 
 ## Hi 👋
-I'm Manav Singh, I'm a graduate 👨‍💻 who is passionate about Web development and open source. I'm also a self proclaimed video editor and internet surfer 
+I'm Manav Singh, a Developer passionate about web development(React JS). I'm also a self proclaimed video editor and internet surfer 
 🏄‍♂️. 
 
-- 🔭 I’m currently working on Frontend Development
-- 🌱 I’m currently learning Fullstack Development
+- 🔭 I’m currently working as a React Dev
+- 🌱 I’m also learning Fullstack Development
 - 💬 Ask me about: tech, memes, anime , sports
 - 😄 Pronouns: he/him
--  ⚡ Languages: JavaScript, Java, Python 
+- ⚡ Languages: JavaScript, Java
 
 
 > Sic Parvis Magna
