@@ -6,7 +6,7 @@
 [![Instagram Badge](https://img.shields.io/badge/maaaanavvv-%23E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/maaaanavvv/)](https://www.instagram.com/maaaanavvv/)
 
 ## Hi 👋
-I'm Manav Singh, a Developer passionate about web development(React JS). I'm also a self proclaimed video editor and internet surfer 
+I'm Manav Singh, a Developer passionate about web development (React JS). I'm also a self proclaimed video editor and internet surfer 
 🏄‍♂️. 
 
 - 🔭 I’m currently working as a React Dev
